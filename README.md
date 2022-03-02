@@ -1,4 +1,4 @@
-# genesignature
+# Automation of Gene Signature Generation
 Gene expression signatures are very useful in understanding underlying molecular causes of disease, effects of drugs, etc. Manual extraction of collections of gene expression signatures
 from GEO has been demonstrated to be highly useful.It was applied for drug repurposing, suggesting novel drugs for many diseases, and explaining mechanisms of action for many 
 approved drugs. Several efforts have attempted to further annotate datasets from GEO manually; one example is Gene Expression data Mining Toward Relevant Network Discovery (GEM-TREND). 
